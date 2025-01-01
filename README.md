@@ -2,7 +2,6 @@
 This project focuses on predicting passenger survival on the Titanic using the Kaggle Titanic Survival dataset. The dataset includes demographic, socio-economic, and travel details of passengers.
 The goal is to predict whether a passenger survived the disaster (binary classification: survived or not survived) based on the given features.
 
-Models Evaluated
 Several machine learning models were implemented and evaluated for performance:
 * Logistic Regression
 * Decision Tree
@@ -11,7 +10,6 @@ Several machine learning models were implemented and evaluated for performance:
 * Random Forest
 * LightGBM
 
-Metrics Used for Evaluation
 Each model was assessed based on the following metrics:
 * Accuracy
 * Precision
